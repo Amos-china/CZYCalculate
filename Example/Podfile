@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CZYCalculate_Example' do
+  pod 'CZYCalculate', :path => '../'
+
+  target 'CZYCalculate_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
