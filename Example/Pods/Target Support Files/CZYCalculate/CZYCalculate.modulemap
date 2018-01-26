@@ -1,0 +1,6 @@
+framework module CZYCalculate {
+  umbrella header "CZYCalculate-umbrella.h"
+
+  export *
+  module * { export * }
+}

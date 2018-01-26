@@ -1,0 +1,6 @@
+framework module Pods_CZYCalculate_Example {
+  umbrella header "Pods-CZYCalculate_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CZYCalculate (0.1.0)
+
+DEPENDENCIES:
+  - CZYCalculate (from `../`)
+
+EXTERNAL SOURCES:
+  CZYCalculate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CZYCalculate: fb075e2d3e8f374c7024cbc0ab31384867cf12d0
+
+PODFILE CHECKSUM: 5dba054ad03860004a08e50a19a7b87c4e41e121
+
+COCOAPODS: 1.2.1
