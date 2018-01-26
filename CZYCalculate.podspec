@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CZYCalculate'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'CZYCalculate.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: 测试练习CZYCalculate.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'CZY' => '728972977@qq.com' }
-  s.source           = { :git => 'https://github.com/CZY/CZYCalculate.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/InnisfreeCZY/CZYCalculate.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
